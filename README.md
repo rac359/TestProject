@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of TestProject is to …
+The goal of TestProject is to explore how multiple Shiny apps can be aggregated into one Docker container.
 
 ## Installation
 
