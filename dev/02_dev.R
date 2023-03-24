@@ -61,7 +61,6 @@ covrpage::covrpage()
 ## service for your application
 ##
 ## (You'll need GitHub there)
-key <- "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"
 usethis::use_github()
 
 # GitHub Actions
